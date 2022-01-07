@@ -1,1 +1,1 @@
-# LearnJS-to-build-FullStack-App
+# LearnJS-to-build-Website
